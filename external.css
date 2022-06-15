@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.title{
+    color: red;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.473);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.box{
+    
+    background-color: rgb(255, 183, 88);
+    border: 2px solid crimson ;
+    border-radius: 20px;
+    align-self: center;
+    margin-bottom: 50px;
+}
+.leg{
+    background-color: burlywood;
+    border: 2px solid crimson ;
+    border-radius: 20px;
+    padding: 10px;
+}
